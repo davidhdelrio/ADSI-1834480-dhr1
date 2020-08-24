@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Login - ADSI</title>
+  <title>Login - ADSI-DHR</title>
 
   <!-- Custom fonts for this template-->
   <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -32,12 +32,15 @@
             <!-- Nested Row within Card Body -->
             <div class="row">
               <div class="col-lg-6 d-none d-lg-block ">
-                <img src="assets/img/logoAdsi.png" alt="">
+              <center>
+                <img src="assets/img/logo.png" alt=""> 
+                </center>
               </div>
               <div class="col-lg-6">
                 <div class="p-5">
                   <div class="text-center">
-                    <h1 class="h4 text-gray-900 mb-4">MVC by ADSI!</h1>
+                    <h1 class="h4 text-gray-900 mb-4">MVC by ADSI-
+                    dhr!</h1>
                   </div>
                   <form method="POST" action="index.php?c=user&a=validate" class="user">
                     <div class="form-group">
