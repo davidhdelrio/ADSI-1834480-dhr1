@@ -31,10 +31,10 @@
           <div class="card-body p-0">
             <!-- Nested Row within Card Body -->
             <div class="row">
-              <div class="col-lg-6 d-none d-lg-block ">
-              <center>
+              <div class="col-lg-6 d-none text-center p-5 d-lg-block ">
+              
                 <img src="assets/img/logo.png" alt=""> 
-                </center>
+                
               </div>
               <div class="col-lg-6">
                 <div class="p-5">
